@@ -1,10 +1,10 @@
-## Tabelas de Conteúdos 
+### Tabelas de Conteúdos 
 
-# Criadores de Dashboard 
-[Lovable](https://lovable.dev) -
-[Trae](https://www.trae.ai) -
-[Manus](https://manus.im)
-[GLM-4.5](https://z.ai/blog/glm-4.5)
+## Criadores de Dashboard 
+- [Lovable](https://lovable.dev) 
+- [Trae](https://www.trae.ai) 
+- [Manus](https://manus.im)
+- [GLM-4.5](https://z.ai/blog/glm-4.5)
 
 # Criadores de site com IA:
 [Lovable](https://lovable.dev)
@@ -46,6 +46,7 @@
 
 # Diretório de Agentes de IA
 [IA Agentes](https://aiagentsdirectory.com/categories) 
+
 
 
 
