@@ -46,7 +46,7 @@
 - [DeepSeek](https://www.deepseek.com/en)
 - [Qwen](https://chat.qwen.ai)
 - [Hunyuan](https://hunyuanvideoai.com) **Criação de vídeos**
-= [Doubao](https://www.cici.com/chat)
+- [Doubao](https://www.cici.com/chat)
 ### Plataformas
 - [Versel](https://vercel.com)
 - [Coolify](https://coolify.io)
@@ -78,6 +78,7 @@
 - [Google Cloud Shell](https://cloud.google.com/shell/docs/using-cloud-shell?hl=pt-br)
 - [Azure Cloud Shell](https://azure.microsoft.com/pt-br/pricing/purchase-options/azure-account?icid=azurefreeaccount)
 - [Oracle Cloud Shell](https://www.oracle.com/application-development/cloud-shell)
+
 
 
 
