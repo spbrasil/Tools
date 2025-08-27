@@ -1,0 +1,2 @@
+Agentes md **É uma convenção criada para instruir agentes de IA que escrevem código. A ideia é dar às máquinas um lugar mais claro e previsível com as instruções certas para navegar por um projeto.** 
+- [Agentes.md](https://agents.md)
